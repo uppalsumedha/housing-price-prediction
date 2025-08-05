@@ -27,9 +27,7 @@ This project uses a single feature (Median Income) to predict housing prices usi
 
 ## To Run
 
-python src/train_model.py
-
-or open and run the notebook in:
+Run the notebook in:
 
 notebooks/housing_price_prediction.ipynb
 
